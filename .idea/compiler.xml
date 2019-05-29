@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.amazon.main" target="1.8" />
+      <module name="com.amazon.test" target="1.8" />
+      <module name="GitHub.qa19_class.web-project-trello.main" target="1.8" />
+      <module name="GitHub.qa19_class.web-project-trello.test" target="1.8" />
+      <module name="projects_QA19.web-project-trello.main" target="1.8" />
+      <module name="projects_QA19.web-project-trello.test" target="1.8" />
+      <module name="qa19.web-project-aliexpress.main" target="1.8" />
+      <module name="qa19.web-project-aliexpress.test" target="1.8" />
+      <module name="qa19.web-project-ebay.main" target="1.8" />
+      <module name="qa19.web-project-ebay.test" target="1.8" />
+      <module name="qa19.web-project-wikipedia.main" target="1.8" />
+      <module name="qa19.web-project-wikipedia.test" target="1.8" />
+      <module name="qa19_class.web-project-aliexpress.main" target="1.8" />
+      <module name="qa19_class.web-project-aliexpress.test" target="1.8" />
+      <module name="qa19_class.web-project-amazon.main" target="1.8" />
+      <module name="qa19_class.web-project-amazon.test" target="1.8" />
+      <module name="qa19_class.web-project-trello.main" target="1.8" />
+      <module name="qa19_class.web-project-trello.test" target="1.8" />
+      <module name="qa19com.web-project-20190502.main" target="1.8" />
+      <module name="qa19com.web-project-20190502.test" target="1.8" />
+      <module name="trello-test_main" target="1.8" />
+      <module name="trello-test_test" target="1.8" />
+      <module name="web-project-20190502.main" target="1.8" />
+      <module name="web-project-20190502.test" target="1.8" />
+      <module name="web-project-aliexpress.main" target="1.8" />
+      <module name="web-project-aliexpress.test" target="1.8" />
+      <module name="web-project-amazon.main" target="1.8" />
+      <module name="web-project-amazon.test" target="1.8" />
+      <module name="web-project-chrome.main" target="1.8" />
+      <module name="web-project-chrome.test" target="1.8" />
+      <module name="web-project-ebay.main" target="1.8" />
+      <module name="web-project-ebay.test" target="1.8" />
+      <module name="web-project-trello.main" target="1.8" />
+      <module name="web-project-trello.test" target="1.8" />
+      <module name="web-project-wikipedia.main" target="1.8" />
+      <module name="web-project-wikipedia.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

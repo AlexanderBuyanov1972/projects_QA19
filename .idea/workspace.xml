@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="045a6a94-eed9-4b80-bdd4-856c4eed8683" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/web-project-aliexpress2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web-project-aliexpress2/build/" />
+    <ignored path="$PROJECT_DIR$/web-project-aliexpress2/out/" />
+    <ignored path="$PROJECT_DIR$/web-project-20190502/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web-project-20190502/build/" />
+    <ignored path="$PROJECT_DIR$/web-project-20190502/out/" />
+    <ignored path="$PROJECT_DIR$/web-project-aliexpress/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web-project-aliexpress/build/" />
+    <ignored path="$PROJECT_DIR$/web-project-aliexpress/out/" />
+    <ignored path="$PROJECT_DIR$/trello-test/out/test/classes/" />
+    <ignored path="$PROJECT_DIR$/trello-test/out/production/classes/" />
+    <ignored path="$PROJECT_DIR$/web-project-chrome/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web-project-chrome/build/" />
+    <ignored path="$PROJECT_DIR$/web-project-chrome/out/" />
+    <ignored path="$PROJECT_DIR$/web-project-amazon/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web-project-amazon/build/" />
+    <ignored path="$PROJECT_DIR$/web-project-amazon/out/" />
+    <ignored path="$PROJECT_DIR$/web-project-trello/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web-project-trello/build/" />
+    <ignored path="$PROJECT_DIR$/web-project-trello/out/" />
+    <ignored path="$PROJECT_DIR$/web-project-ebay/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web-project-ebay/build/" />
+    <ignored path="$PROJECT_DIR$/web-project-ebay/out/" />
+    <ignored path="$PROJECT_DIR$/web-project-wikipedia/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web-project-wikipedia/build/" />
+    <ignored path="$PROJECT_DIR$/web-project-wikipedia/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/web-project-20190502">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/web-project-aliexpress">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/web-project-amazon">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/web-project-chrome">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/web-project-ebay">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/web-project-trello">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/web-project-wikipedia">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/AddArticleGameOfThrones.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/Login.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/Logout.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateBoard.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateSomeBoards.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateOnePersonalBoard.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Board.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/TeamHelper.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateTeam.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateSomePersonalBoards.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/build.gradle" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/AddPhotoToProfile.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Team.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/UserHelper.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteOnePersonalBoard.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/HelperBase.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/TestBase.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteOneTeamBoard.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteAllTeamBoards.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/HeaderHelper.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/BoardHelper.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteAllPersonalBoards.java" />
+        <option value="$PROJECT_DIR$/web-project-amazon/src/test/java/com/qa19/tests/AmazonTests.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/BaseTestWikipedia.java" />
+        <option value="$PROJECT_DIR$/web-project-ebay/src/test/java/com/qa19/EbayTests.java" />
+        <option value="$PROJECT_DIR$/web-project-trello/src/test/java/com/qa19/tests/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/AddArticleGameOfThrones.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="820" />
+    <option name="height" value="459" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17884615" />
+    <property name="project.structure.side.proportion" value="0.25604996" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.DeleteAllPersonalBoards">
+    <configuration name="CreateSomePersonalBoards" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa19com.web-project-20190502.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CreateSomePersonalBoards" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteAllPersonalBoards" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa19com.web-project-20190502.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.DeleteAllPersonalBoards" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteAllPersonalBoards.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa19com.web-project-20190502.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.DeleteAllPersonalBoards" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteAllTeamBoards" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa19com.web-project-20190502.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.DeleteAllTeamBoards" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteOneTeamBoard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa19com.web-project-20190502.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.DeleteOneTeamBoard" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DeleteAllPersonalBoards" />
+        <item itemvalue="TestNG.CreateSomePersonalBoards" />
+        <item itemvalue="TestNG.DeleteAllPersonalBoards.test" />
+        <item itemvalue="TestNG.DeleteAllTeamBoards" />
+        <item itemvalue="TestNG.DeleteOneTeamBoard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="045a6a94-eed9-4b80-bdd4-856c4eed8683" name="Default Changelist" comment="" />
+      <created>1558121524150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558121524150</updated>
+      <workItem from="1558121531601" duration="2107000" />
+      <workItem from="1558123674397" duration="10248000" />
+      <workItem from="1558182110541" duration="12752000" />
+      <workItem from="1558310815697" duration="3314000" />
+      <workItem from="1558364115416" duration="10989000" />
+      <workItem from="1558394295834" duration="699000" />
+      <workItem from="1558874499115" duration="78000" />
+      <workItem from="1558946006434" duration="10290000" />
+      <workItem from="1559125611564" duration="15590000" />
+      <workItem from="1559148499997" duration="898000" />
+      <workItem from="1559149884555" duration="359000" />
+      <workItem from="1559150323032" duration="1065000" />
+      <workItem from="1559151527120" duration="828000" />
+      <workItem from="1559152374678" duration="1143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 06m 19s.xml">
+      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DeleteAllPersonalBoards - 2019.05.29 at 16h 08m 33s.xml">
+      <configuration name="DeleteAllPersonalBoards" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 13m 49s.xml">
+      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DeleteAllPersonalBoards - 2019.05.29 at 16h 20m 07s.xml">
+      <configuration name="DeleteAllPersonalBoards" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 22m 38s.xml">
+      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 22m 54s.xml">
+      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 24m 02s.xml">
+      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 25m 30s.xml">
+      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 28m 31s.xml">
+      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DeleteAllPersonalBoards - 2019.05.29 at 16h 31m 23s.xml">
+      <configuration name="DeleteAllPersonalBoards" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="70360000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38894907" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2585288" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39761648" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/Login.java" />
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/Logout.java" />
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/manager/TeamHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/build/reports/tests/test/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/AddPhotoToProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/manager/UserHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateOnePersonalBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateTeam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteOnePersonalBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteAllTeamBoards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/manager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#1901#1902#0" expanded="true" />
+            <element signature="e#1940#1941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/manager/HeaderHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/manager/BoardHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="29" column="96" selection-start-line="29" selection-start-column="96" selection-end-line="29" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteOneTeamBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateSomePersonalBoards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="67" lean-forward="true" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteAllPersonalBoards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-chrome/src/test/java/com/qa19/ChromeTests.java" />
+    <entry file="file://$PROJECT_DIR$/web-project-aliexpress/src/test/java/com/qa19/tests/AliexpressTests.java" />
+    <entry file="file://$PROJECT_DIR$/web-project-amazon/src/test/java/com/qa19/tests/AmazonTests.java" />
+    <entry file="file://$PROJECT_DIR$/web-project-ebay/src/test/java/com/qa19/EbayTests.java" />
+    <entry file="file://$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/LanguagesTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/LoginWikipedia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/BaseTestWikipedia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/com/qa19/tests/BoardCreationTest.java" />
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/com/qa19/tests/TestBase.java" />
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/com/qa19/tests/ApplicationManager.java" />
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/manager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/AddArticleGameOfThrones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>qa19com.web-project-20190502.test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25604996" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25604996" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

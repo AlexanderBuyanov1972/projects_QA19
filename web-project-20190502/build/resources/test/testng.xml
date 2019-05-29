@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="trello" verbose="1">
+    <test name="Regression">
+        <classes>
+            <class name="tests.CreateOnePersonalBoard"/>
+            <class name="tests.CreateTeam"/>
+            <class name="tests.CreateSomePersonalBoards"/>
+        </classes>
+    </test>
+</suite>
+

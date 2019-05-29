@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="web-project-trello" external.linked.project.path="$MODULE_DIR$/../../web-project-trello" external.root.project.path="$MODULE_DIR$/../../web-project-trello" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="" externalSystemModuleVersion="1.0-SNAPSHOT" linkedProjectId="web-project-trello" linkedProjectPath="$MODULE_DIR$/../../web-project-trello" rootProjectPath="$MODULE_DIR$/../../web-project-trello" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../web-project-trello">
+      <excludeFolder url="file://$MODULE_DIR$/../../web-project-trello/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../web-project-trello/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../web-project-trello/out" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
