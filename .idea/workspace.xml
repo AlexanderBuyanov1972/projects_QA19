@@ -1,7 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="045a6a94-eed9-4b80-bdd4-856c4eed8683" name="Default Changelist" comment="" />
+    <list default="true" id="045a6a94-eed9-4b80-bdd4-856c4eed8683" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/Models/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/Models/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/manager/ApplicationManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/manager/BoardHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/manager/HeaderHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/manager/HelperBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/manager/TeamHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/tests/CreateOnePersonalBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/tests/CreateSomePersonalBoards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/tests/CreateTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/tests/DeleteAllPersonalBoards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/tests/DeleteOnePersonalBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/classes/java/test/tests/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/reports/tests/test/classes/tests.CreateOnePersonalBoard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/reports/tests/test/classes/tests.CreateSomePersonalBoards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/reports/tests/test/classes/tests.CreateTeam.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/reports/tests/test/packages/tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/resources/test/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/test-results/test/TEST-tests.CreateOnePersonalBoard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/test-results/test/TEST-tests.CreateSomePersonalBoards.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/test-results/test/TEST-tests.CreateTeam.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/META-INF/web-project-20190502.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/Models/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/Models/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/manager/ApplicationManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/manager/BoardHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/manager/HeaderHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/manager/HelperBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/manager/TeamHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/manager/UserHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/tests/AddPhotoToProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/tests/CreateOnePersonalBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/tests/CreateSomePersonalBoards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/tests/CreateTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/tests/DeleteAllPersonalBoards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/tests/DeleteAllTeamBoards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/tests/DeleteOnePersonalBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/tests/DeleteOneTeamBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/classes/tests/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/out/test/resources/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/ApplicationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/BoardHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/HeaderHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/HelperBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/TeamHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/UserHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/AddPhotoToProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateOnePersonalBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateSomePersonalBoards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateTeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteAllPersonalBoards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteAllTeamBoards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteOnePersonalBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteOneTeamBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-20190502/src/test/resources/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/AddArticleGameOfThrones.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/AddArticleGameOfThrones.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/web-project-aliexpress2/.gradle/" />
     <ignored path="$PROJECT_DIR$/web-project-aliexpress2/build/" />
@@ -74,17 +148,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/AddArticleGameOfThrones.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -104,14 +168,12 @@
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateBoard.java" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateSomeBoards.java" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateOnePersonalBoard.java" />
-        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Board.java" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/TeamHelper.java" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateTeam.java" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/CreateSomePersonalBoards.java" />
         <option value="$PROJECT_DIR$/web-project-20190502/build.gradle" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/AddPhotoToProfile.java" />
-        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Team.java" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/UserHelper.java" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/tests/DeleteOnePersonalBoard.java" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/manager/HelperBase.java" />
@@ -127,6 +189,10 @@
         <option value="$PROJECT_DIR$/web-project-ebay/src/test/java/com/qa19/EbayTests.java" />
         <option value="$PROJECT_DIR$/web-project-trello/src/test/java/com/qa19/tests/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/AddArticleGameOfThrones.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Team.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Board.java" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/resources/personalBoards.csv" />
+        <option value="$PROJECT_DIR$/web-project-20190502/src/test/resources/teamBoards.csv" />
       </list>
     </option>
   </component>
@@ -143,9 +209,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,6 +367,7 @@
       <workItem from="1559150323032" duration="1065000" />
       <workItem from="1559151527120" duration="828000" />
       <workItem from="1559152374678" duration="1143000" />
+      <workItem from="1559153700244" duration="623000" />
     </task>
     <servers />
   </component>
@@ -337,12 +404,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70360000" />
+    <option name="totallyTimeSpent" value="70983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -356,7 +423,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.25568798" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -375,7 +442,7 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2585288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -384,12 +451,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39761648" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38894907" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.25568798" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -447,17 +514,6 @@
     <entry file="file://$PROJECT_DIR$/web-project-20190502/build/reports/tests/test/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/tests/AddPhotoToProfile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -475,13 +531,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Team.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -629,10 +678,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/resources/personalBoards.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-20190502/src/test/resources/teamBoards.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web-project-wikipedia/src/test/java/com/qa19/AddArticleGameOfThrones.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="468">
+          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
         </state>
       </provider>
     </entry>

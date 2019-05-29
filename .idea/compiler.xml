@@ -36,6 +36,8 @@
       <module name="web-project-ebay.test" target="1.8" />
       <module name="web-project-trello.main" target="1.8" />
       <module name="web-project-trello.test" target="1.8" />
+      <module name="web-project-trello.web-project-20190502.main" target="1.8" />
+      <module name="web-project-trello.web-project-20190502.test" target="1.8" />
       <module name="web-project-wikipedia.main" target="1.8" />
       <module name="web-project-wikipedia.test" target="1.8" />
     </bytecodeTargetLevel>

@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projects_QA19.web-project-trello.main.iml" filepath="$PROJECT_DIR$/.idea/modules/projects_QA19.web-project-trello.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19.web-project-aliexpress.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19.web-project-aliexpress.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19.web-project-aliexpress.main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19.web-project-aliexpress.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19.web-project-aliexpress.test.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19.web-project-aliexpress.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19_class.web-project-aliexpress.main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19_class.web-project-aliexpress.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19_class.web-project-amazon.main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19_class.web-project-amazon.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19_class.web-project-trello.main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19_class.web-project-trello.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19com.web-project-20190502.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19com.web-project-20190502.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19com.web-project-20190502.main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19com.web-project-20190502.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19com.web-project-20190502.test.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19com.web-project-20190502.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-test_main.iml" group="trello-test" />
@@ -21,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-project-chrome.main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-project-chrome.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-project-ebay.main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-project-ebay.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-project-trello.main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-project-trello.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-project-trello.web-project-20190502.main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-project-trello.web-project-20190502.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-project-trello.web-project-20190502.test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-project-trello.web-project-20190502.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-project-wikipedia.iml" filepath="$PROJECT_DIR$/.idea/modules/web-project-wikipedia.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-project-wikipedia.main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-project-wikipedia.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-project-wikipedia.test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-project-wikipedia.test.iml" />

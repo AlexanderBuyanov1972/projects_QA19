@@ -39,10 +39,5 @@ public class AddArticleGameOfThrones extends BaseTestWikipedia {
         clearElement(inputSelector);
         sendKeysElement(inputSelector, SEARCH_TEXT);
         clickElement(searchSubmitSelector);
-
-//        clickElement(inputSelector);
-//        clearElement(inputSelector);
-//        sendKeysElement(inputSelector, SEARCH_TEXT);
-//        clickElement(searchSubmitSelector);
     }
 }

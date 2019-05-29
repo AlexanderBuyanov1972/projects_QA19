@@ -22,4 +22,12 @@ public class Team {
     public void withDescription(String description) {
         this.description = description;
     }
+
+    @Override
+    public String toString() {
+        return "Team{" +
+                "teamName='" + teamName + '\'' +
+                ", description='" + description + '\'' +
+                '}';
+    }
 }

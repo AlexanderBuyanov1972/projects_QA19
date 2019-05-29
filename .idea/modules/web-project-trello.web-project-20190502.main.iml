@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="web-project-trello:main" external.linked.project.path="$MODULE_DIR$/../../web-project-trello" external.root.project.path="$MODULE_DIR$/../../web-project-trello" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="web-project-20190502:main" external.linked.project.path="$MODULE_DIR$/../../web-project-trello" external.root.project.path="$MODULE_DIR$/../../web-project-trello" external.system.id="GRADLE" external.system.module.group="qa19com" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../web-project-trello/out/production/classes" />
     <exclude-output />

@@ -13,4 +13,11 @@ public class Board {
     public void withBoardName(String boardName) {
         this.boardName = boardName;
     }
+
+    @Override
+    public String toString() {
+        return "Board{" +
+                "boardName='" + boardName + '\'' +
+                '}';
+    }
 }
