@@ -3,7 +3,7 @@ package tests;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class CreateTeam extends TestBase {
+public class CreateOneTeamBoard extends TestBase {
     @Test
     public void createTeamTest() throws InterruptedException {
         app.getHeaderHelper().clickOnPlusButtonOnHeader();

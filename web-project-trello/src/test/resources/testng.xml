@@ -3,7 +3,7 @@
     <test name="Regression">
         <classes>
             <class name="tests.CreateOnePersonalBoard"/>
-            <class name="tests.CreateTeam"/>
+            <class name="tests.CreateOneTeamBoard"/>
             <class name="tests.CreateSomePersonalBoards"/>
         </classes>
     </test>
