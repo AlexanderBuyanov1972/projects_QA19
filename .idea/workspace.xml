@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="045a6a94-eed9-4b80-bdd4-856c4eed8683" name="Default Changelist" comment="" />
+    <list default="true" id="045a6a94-eed9-4b80-bdd4-856c4eed8683" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web-project-trello/src/test/java/Models/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-project-trello/src/test/java/tests/UserProfileModification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/out/test/classes/META-INF/web-project-20190502.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/out/test/classes/Models/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/out/test/classes/Models/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/out/test/classes/Models/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/out/test/classes/Models/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/out/test/classes/manager/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/out/test/classes/manager/ApplicationManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/out/test/classes/manager/BoardHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/out/test/classes/manager/BoardHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/out/test/classes/manager/HeaderHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/out/test/classes/manager/HeaderHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/out/test/classes/manager/UserHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/out/test/classes/manager/UserHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/out/test/classes/tests/CreateOnePersonalBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/out/test/classes/tests/CreateOnePersonalBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/out/test/classes/tests/CreateSomePersonalBoards.class" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/out/test/classes/tests/CreateSomePersonalBoards.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/out/test/classes/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/out/test/classes/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/src/test/java/manager/BoardHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/src/test/java/manager/BoardHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/src/test/java/manager/HeaderHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/src/test/java/manager/HeaderHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/src/test/java/manager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/src/test/java/manager/HelperBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/src/test/java/manager/UserHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/src/test/java/manager/UserHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/src/test/java/tests/CreateOnePersonalBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/src/test/java/tests/CreateOnePersonalBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/src/test/java/tests/CreateSomePersonalBoards.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/src/test/java/tests/CreateSomePersonalBoards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-project-trello/src/test/resources/personalBoards.csv" beforeDir="false" afterPath="$PROJECT_DIR$/web-project-trello/src/test/resources/boards.csv" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/web-project-aliexpress2/.gradle/" />
     <ignored path="$PROJECT_DIR$/web-project-aliexpress2/build/" />
@@ -74,7 +96,46 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/tests/UserProfileModification.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/manager/UserHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/manager/HelperBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+              <folding>
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#786#787#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -119,10 +180,18 @@
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/java/Models/Board.java" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/resources/personalBoards.csv" />
         <option value="$PROJECT_DIR$/web-project-20190502/src/test/resources/teamBoards.csv" />
+        <option value="$PROJECT_DIR$/web-project-trello/src/test/java/tests/CreateSomePersonalBoards.java" />
+        <option value="$PROJECT_DIR$/web-project-trello/src/test/java/manager/BoardHelper.java" />
+        <option value="$PROJECT_DIR$/web-project-trello/src/test/java/manager/HeaderHelper.java" />
+        <option value="$PROJECT_DIR$/web-project-trello/src/test/java/tests/CreateOnePersonalBoard.java" />
+        <option value="$PROJECT_DIR$/web-project-trello/src/test/java/Models/UserProfile.java" />
+        <option value="$PROJECT_DIR$/web-project-trello/src/test/java/manager/HelperBase.java" />
+        <option value="$PROJECT_DIR$/web-project-trello/src/test/java/manager/UserHelper.java" />
+        <option value="$PROJECT_DIR$/web-project-trello/src/test/java/tests/UserProfileModification.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="820" />
     <option name="height" value="459" />
@@ -135,9 +204,61 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projects_QA19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project-trello" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects_QA19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project-trello" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects_QA19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project-trello" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects_QA19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project-trello" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects_QA19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project-trello" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects_QA19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project-trello" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects_QA19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project-trello" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,7 +293,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DeleteAllPersonalBoards">
+  <component name="RunManager" selected="TestNG.UserProfileModification">
+    <configuration name="CreateOnePersonalBoard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-project-trello.web-project-20190502.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CreateOnePersonalBoard" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOnePersonalBoard.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-project-trello.web-project-20190502.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CreateOnePersonalBoard" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CreateSomePersonalBoards" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qa19com.web-project-20190502.test" />
       <extension name="coverage">
@@ -207,8 +363,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteAllPersonalBoards.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qa19com.web-project-20190502.test" />
+    <configuration name="UserProfileModification" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-project-trello.web-project-20190502.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.*" />
@@ -216,42 +372,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.DeleteAllPersonalBoards" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeleteAllTeamBoards" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qa19com.web-project-20190502.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.DeleteAllTeamBoards" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeleteOneTeamBoard" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qa19com.web-project-20190502.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.DeleteOneTeamBoard" />
+      <option name="MAIN_CLASS_NAME" value="tests.UserProfileModification" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -261,11 +382,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.UserProfileModification" />
+        <item itemvalue="TestNG.CreateOnePersonalBoard" />
+        <item itemvalue="TestNG.CreateOnePersonalBoard.test" />
         <item itemvalue="TestNG.DeleteAllPersonalBoards" />
         <item itemvalue="TestNG.CreateSomePersonalBoards" />
-        <item itemvalue="TestNG.DeleteAllPersonalBoards.test" />
-        <item itemvalue="TestNG.DeleteAllTeamBoards" />
-        <item itemvalue="TestNG.DeleteOneTeamBoard" />
       </list>
     </recent_temporary>
   </component>
@@ -295,48 +416,50 @@
       <workItem from="1559152374678" duration="1143000" />
       <workItem from="1559153700244" duration="623000" />
       <workItem from="1559154985789" duration="71000" />
+      <workItem from="1559164798171" duration="17950000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 06m 19s.xml">
-      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    <history-entry file="UserProfileModification - 2019.05.30 at 04h 55m 01s.xml">
+      <configuration name="UserProfileModification" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DeleteAllPersonalBoards - 2019.05.29 at 16h 08m 33s.xml">
-      <configuration name="DeleteAllPersonalBoards" configurationId="TestNG" />
+    <history-entry file="UserProfileModification - 2019.05.30 at 04h 58m 19s.xml">
+      <configuration name="UserProfileModification" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 13m 49s.xml">
-      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    <history-entry file="UserProfileModification - 2019.05.30 at 05h 02m 35s.xml">
+      <configuration name="UserProfileModification" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DeleteAllPersonalBoards - 2019.05.29 at 16h 20m 07s.xml">
-      <configuration name="DeleteAllPersonalBoards" configurationId="TestNG" />
+    <history-entry file="UserProfileModification - 2019.05.30 at 05h 05m 45s.xml">
+      <configuration name="UserProfileModification" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 22m 38s.xml">
-      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    <history-entry file="UserProfileModification - 2019.05.30 at 05h 07m 55s.xml">
+      <configuration name="UserProfileModification" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 22m 54s.xml">
-      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    <history-entry file="UserProfileModification - 2019.05.30 at 05h 09m 58s.xml">
+      <configuration name="UserProfileModification" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 24m 02s.xml">
-      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    <history-entry file="UserProfileModification - 2019.05.30 at 05h 11m 36s.xml">
+      <configuration name="UserProfileModification" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 25m 30s.xml">
-      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    <history-entry file="UserProfileModification - 2019.05.30 at 05h 15m 15s.xml">
+      <configuration name="UserProfileModification" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateSomePersonalBoards - 2019.05.29 at 16h 28m 31s.xml">
-      <configuration name="CreateSomePersonalBoards" configurationId="TestNG" />
+    <history-entry file="UserProfileModification - 2019.05.30 at 05h 17m 11s.xml">
+      <configuration name="UserProfileModification" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DeleteAllPersonalBoards - 2019.05.29 at 16h 31m 23s.xml">
-      <configuration name="DeleteAllPersonalBoards" configurationId="TestNG" />
+    <history-entry file="UserProfileModification - 2019.05.30 at 05h 18m 50s.xml">
+      <configuration name="UserProfileModification" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71054000" />
+    <option name="totallyTimeSpent" value="89004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2803838" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10181237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -344,13 +467,13 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38894907" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.531961" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.25568798" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.25568798" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -463,6 +586,102 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/tests/CreateSomePersonalBoards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/manager/BoardHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="38" column="108" selection-start-line="38" selection-start-column="108" selection-end-line="38" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/manager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/manager/HeaderHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/tests/CreateOnePersonalBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/Models/UserProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1187">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/manager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+          <folding>
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/manager/UserHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-project-trello/src/test/java/tests/UserProfileModification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

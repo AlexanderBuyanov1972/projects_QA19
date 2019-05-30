@@ -33,16 +33,16 @@ public class HelperBase {
 
     // method clear
     public void clear(String selectorString) {
-        findElement(selectorString).click();
+        findElement(selectorString).clear();
     }
 
     // method type
     public void type(String selectorString, String text) {
-        if (text != null) {
-            click(selectorString);
-            clear(selectorString);
-            findElement(selectorString).sendKeys(text);
-        }
+
+        click(selectorString);
+        clear(selectorString);
+        findElement(selectorString).sendKeys(text);
+
     }
 
     //прикрепить какой-нибудь файл
@@ -58,7 +58,7 @@ public class HelperBase {
     }
 
     // method wail for element
-    public void waitForElement(long timeout, String selectorString){
+    public void waitForElement(long timeout, String selectorString) {
         WebDriverWait wait = new WebDriverWait(wd, timeout);
         wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(selectorString)));
     }

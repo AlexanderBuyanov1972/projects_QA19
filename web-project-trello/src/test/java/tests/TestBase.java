@@ -13,7 +13,7 @@ public class TestBase {
             (System.getProperty("browser", BrowserType.CHROME));
 
     @BeforeSuite
-    public void setUp() {
+    public void setUp() throws InterruptedException {
         app.start();
     }
     @AfterSuite

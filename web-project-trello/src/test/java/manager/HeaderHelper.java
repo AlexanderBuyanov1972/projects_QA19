@@ -18,7 +18,8 @@ public class HeaderHelper extends HelperBase {
     }
     public void clickOnBoardsButtonOnHeader() throws InterruptedException {
         Thread.sleep(5000);
-        click("[class='header-btn header-boards js-boards-menu']");
+        // click("[class='header-btn header-boards js-boards-menu']");
+        click("[data-test-id='header-boards-menu-button']");
     }
     public void clickOnSearchButtonOnHeader() {
         click("[name='search']");
@@ -29,7 +30,8 @@ public class HeaderHelper extends HelperBase {
     }
     public void clickOnPlusButtonOnHeader() throws InterruptedException {
         Thread.sleep(5000);
-        click("[class='header-btn-icon icon-lg icon-add light']");
+       // click("[class='header-btn-icon icon-lg icon-add light']");
+        click("[data-test-id='header-create-menu-button']");
     }
     public void clickOnInformationButtonOnHeader() {
         click("[name='information']");
@@ -40,11 +42,13 @@ public class HeaderHelper extends HelperBase {
 
     public void clickOnABButtonOnHeader() throws InterruptedException {
         Thread.sleep(5000);
-        click("[class='header-btn header-avatar js-open-header-member-menu']");
+      //  click("[class='header-btn header-avatar js-open-header-member-menu']");
+        click("[data-test-id='header-member-menu-button']");
     }
 
     public void clickOnLinkLogOut() {
-        click("[class='js-logout']");
+      //  click("[class='js-logout']");
+        click("[data-test-id='header-member-menu-logout']");
     }
 
     public boolean isElementPresent(String selectorString) throws InterruptedException {
