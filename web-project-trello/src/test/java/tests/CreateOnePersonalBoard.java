@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -32,7 +33,7 @@ public class CreateOnePersonalBoard extends TestBase {
     }
 
     @Test(dataProvider = "boards")
-    public void test(Board board) throws InterruptedException {
+    public void createOnePersonalBoard(Board board) throws InterruptedException {
         Thread.sleep(10000);
         app.getHeaderHelper().clickOnPlusButtonOnHeader();
         app.getBoardHelper().selectCreateBoardFromDropDown();
