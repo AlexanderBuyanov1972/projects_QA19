@@ -1,0 +1,14 @@
+01:56:08.760 [main] INFO  tests.TestBase - Start testcreateOnePersonalBoard with parameters [Board{boardName='a'}]
+01:56:30.286 [main] INFO  tests.TestBase - Stop testcreateOnePersonalBoard
+01:56:30.287 [main] INFO  tests.TestBase - Start testcreateOnePersonalBoard with parameters [Board{boardName='aQ'}]
+01:56:52.346 [main] INFO  tests.TestBase - Stop testcreateOnePersonalBoard
+01:56:52.347 [main] INFO  tests.TestBase - Start testcreateOnePersonalBoard with parameters [Board{boardName='123'}]
+01:57:16.157 [main] INFO  tests.TestBase - Stop testcreateOnePersonalBoard
+01:57:16.158 [main] INFO  tests.TestBase - Start testcreateOnePersonalBoard with parameters [Board{boardName='ASD-QW'}]
+01:57:38.621 [main] INFO  tests.TestBase - Stop testcreateOnePersonalBoard
+01:57:38.622 [main] INFO  tests.TestBase - Start testcreateOnePersonalBoard with parameters [Board{boardName='#123'}]
+01:58:00.846 [main] INFO  tests.TestBase - Stop testcreateOnePersonalBoard
+01:58:00.847 [main] INFO  tests.TestBase - Start testcreateOnePersonalBoard with parameters [Board{boardName='#qwe'}]
+01:58:23.051 [main] INFO  tests.TestBase - Stop testcreateOnePersonalBoard
+01:58:23.052 [main] INFO  tests.TestBase - Start testcreateOnePersonalBoard with parameters [Board{boardName='12qw$'}]
+01:58:45.980 [main] INFO  tests.TestBase - Stop testcreateOnePersonalBoard

@@ -1,0 +1,1 @@
+01:54:21.591 [main] INFO  tests.TestBase - Start testcreateOnePersonalBoard with parameters [Board{boardName='a'}]

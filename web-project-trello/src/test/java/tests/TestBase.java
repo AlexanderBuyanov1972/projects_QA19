@@ -1,8 +1,11 @@
 package tests;
 
 import manager.ApplicationManager;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.BrowserType;
+import org.openqa.selenium.support.events.AbstractWebDriverEventListener;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.AfterMethod;
@@ -11,15 +14,17 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 import java.lang.reflect.Method;
+import java.util.Arrays;
 import java.util.List;
 
 public class TestBase{
     Logger logger = LoggerFactory.getLogger(TestBase.class);
+
     protected static ApplicationManager app = new ApplicationManager
             (System.getProperty("browser", BrowserType.CHROME));
     @BeforeMethod
-    public void logTestStart(Method method){
-        logger.info("Start test" + method.getName());
+    public void logTestStart(Method method, Object[] obj){
+        logger.info("Start test" + method.getName() + " with parameters "+ Arrays.asList(obj));
     }
     @AfterMethod
     public void logTestStop(Method method){

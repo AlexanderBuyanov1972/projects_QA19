@@ -39,6 +39,7 @@ public class CreateOnePersonalBoard extends TestBase {
         app.getBoardHelper().selectCreateBoardFromDropDown();
         app.getBoardHelper().fillBoardCreationForm(board);
         app.getBoardHelper().submitBoardCreation();
+        app.screenShot();
         app.getHeaderHelper().clickOnBoardsButtonOnHeader();
     }
 
