@@ -14,7 +14,7 @@ public class MyListener  extends AbstractWebDriverEventListener {
     protected static ApplicationManager app = new ApplicationManager
             (System.getProperty("browser", BrowserType.CHROME));
 
-    Logger logger = LoggerFactory.getLogger(TestBase.class);
+    private Logger logger = LoggerFactory.getLogger(TestBase.class);
 
 
     @Override
